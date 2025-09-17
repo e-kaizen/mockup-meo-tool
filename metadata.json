@@ -1,0 +1,5 @@
+{
+  "name": "MEO対策 競合分析ツール",
+  "description": "Google Places APIとGemini APIを活用して、指定した地域の競合店舗のMEO（マップエンジン最適化）状況を分析し、営業活動に役立つインサイトを提供するツールです。",
+  "requestFramePermissions": []
+}
